@@ -1,0 +1,33 @@
+{
+  "name": "18.2_ReactJS",
+  "version": "1.0.0",
+  "description": "My first ReactJS task",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krollukasz/18.2_ReactJS.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "learning\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C",
+    "nodemon",
+    "npm",
+    "learning",
+    "upload_files"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krollukasz/18.2_ReactJS/issues"
+  },
+  "homepage": "https://github.com/krollukasz/18.2_ReactJS#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "formidable": "^1.2.1"
+  }
+}
